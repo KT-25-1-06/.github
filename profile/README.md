@@ -67,7 +67,6 @@
 ---
 
 ## 👥 팀원 및 역할
-![KakaoTalk_Photo_2025-04-03-09-21-34-1](https://github.com/user-attachments/assets/c32b3ee6-929a-4bf8-9060-2197d1b0f82f)
 
 
 | 이름     | 역할 |
