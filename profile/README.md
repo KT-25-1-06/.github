@@ -4,6 +4,9 @@
 
 > 생성형 AI와 .ics 파일 기반의 스마트 일정 자동화 플랫폼
 
+<img width="949" alt="스크린샷 2025-04-03 10 46 52" src="https://github.com/user-attachments/assets/170b964f-9a3e-416b-8b07-f00c2202cbe1" />
+
+
 ---
 
 ## 🔍 프로젝트 개요
@@ -37,15 +40,12 @@
 | 구분         | 기술 스택 |
 |--------------|-----------|
 | **Frontend** | React, React Router, Axios, JavaScript |
-| **Backend**  | Spring Boot, Python, FastAPI |
+| **Backend**  | Spring Boot, FastAPI |
 | **AI 분석**  | OpenAI GPT-3.5-turbo API |
 | **Database** | PostgreSQL |
 | **이메일 처리** | IMAP (수신), SMTP (회신), smtplib, imaplib |
 | **일정 생성** | Python icalendar |
-| **인증/보안** | OAuth2, JWT, PyJWT, Passlib |
-| **API 연동** | Google Calendar API, Microsoft Outlook API |
-| **비동기 작업** | Celery + Redis / RabbitMQ |
-| **템플릿** | Jinja2 (이메일 인증 등) |
+| **인증/보안** | KeyClock |
 | **배포/관리** | Git, GitHub |
 | **모델링/설계** | 이벤트 스토밍(MSAEZ), ERD |
 
@@ -67,6 +67,8 @@
 ---
 
 ## 👥 팀원 및 역할
+![KakaoTalk_Photo_2025-04-03-09-21-34-1](https://github.com/user-attachments/assets/c32b3ee6-929a-4bf8-9060-2197d1b0f82f)
+
 
 | 이름     | 역할 |
 |----------|------|
